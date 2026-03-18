@@ -1,0 +1,18 @@
+# Flutter / Android
+build/
+.gradle/
+.local/
+.idea/
+*.iml
+
+# APKs
+*.apk
+*.aab
+
+# Dart/Flutter
+.dart_tool/
+.packages
+pubspec.lock
+
+# Outros
+*.log
